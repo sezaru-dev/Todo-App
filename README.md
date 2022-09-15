@@ -1,7 +1,7 @@
 # Todo App
 
 ## Description
-A React App using Vitejs
+An app created using Vitejs, React, and TailwindCSS
 
 ## Author
 Cezarlito O. Baguhin
